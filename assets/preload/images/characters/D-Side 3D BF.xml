@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="D-Side 3D BF.png">
+<SubTexture name="D-Sides Boyfriend Sunshine Idle0000" x="1640" y="2031" width="822" height="977" frameX="-435" frameY="-42" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Idle0001" x="1642" y="3012" width="821" height="973" frameX="-435" frameY="-46" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Idle0002" x="4090" y="1936" width="819" height="965" frameX="-434" frameY="-55" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Idle0003" x="4632" y="3986" width="816" height="955" frameX="-434" frameY="-66" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Idle0004" x="6543" y="1904" width="811" height="946" frameX="-436" frameY="-76" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Idle0005" x="0" y="5895" width="808" height="942" frameX="-438" frameY="-81" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Idle0006" x="6543" y="3796" width="810" height="944" frameX="-437" frameY="-78" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Idle0007" x="6543" y="0" width="814" height="952" frameX="-435" frameY="-70" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Idle0008" x="2450" y="997" width="817" height="961" frameX="-434" frameY="-60" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Idle0009" x="4090" y="0" width="820" height="968" frameX="-434" frameY="-52" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Idle0010" x="3268" y="977" width="821" height="974" frameX="-435" frameY="-45" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Idle0011" x="1640" y="2031" width="822" height="977" frameX="-435" frameY="-42" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Idle0012" x="1640" y="2031" width="822" height="977" frameX="-435" frameY="-42" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Idle0013" x="1640" y="2031" width="822" height="977" frameX="-435" frameY="-42" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Left0000" x="5727" y="955" width="791" height="953" frameX="-462" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Left0001" x="5727" y="1908" width="791" height="953" frameX="-464" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Left0002" x="5727" y="2861" width="792" height="953" frameX="-468" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Left0003" x="5727" y="3814" width="792" height="953" frameX="-474" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Left0004" x="0" y="4942" width="792" height="953" frameX="-479" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Left0005" x="792" y="4942" width="793" height="953" frameX="-481" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Left0006" x="792" y="4942" width="793" height="953" frameX="-481" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Left0007" x="792" y="4942" width="793" height="953" frameX="-481" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Left0008" x="792" y="4942" width="793" height="953" frameX="-481" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Left0009" x="792" y="4942" width="793" height="953" frameX="-481" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Left0010" x="792" y="4942" width="793" height="953" frameX="-481" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Left0011" x="792" y="4942" width="793" height="953" frameX="-481" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Left0012" x="792" y="4942" width="793" height="953" frameX="-481" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Left0013" x="792" y="4942" width="793" height="953" frameX="-481" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing LMiss0000" x="1585" y="4942" width="791" height="953" frameX="-462" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing LMiss0001" x="2376" y="4942" width="791" height="953" frameX="-464" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing LMiss0002" x="3167" y="4942" width="792" height="953" frameX="-468" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing LMiss0003" x="3959" y="4942" width="792" height="953" frameX="-474" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing LMiss0004" x="4751" y="4942" width="792" height="953" frameX="-479" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing LMiss0005" x="5543" y="4942" width="793" height="953" frameX="-481" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing LMiss0006" x="5543" y="4942" width="793" height="953" frameX="-481" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing LMiss0007" x="5543" y="4942" width="793" height="953" frameX="-481" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing LMiss0008" x="5543" y="4942" width="793" height="953" frameX="-481" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing LMiss0009" x="5543" y="4942" width="793" height="953" frameX="-481" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing LMiss0010" x="5543" y="4942" width="793" height="953" frameX="-481" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing LMiss0011" x="5543" y="4942" width="793" height="953" frameX="-481" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing LMiss0012" x="5543" y="4942" width="793" height="953" frameX="-481" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing LMiss0013" x="5543" y="4942" width="793" height="953" frameX="-481" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Down0000" x="1616" y="5895" width="785" height="895" frameX="-483" frameY="-99" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Down0001" x="3186" y="5895" width="785" height="894" frameX="-483" frameY="-101" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Down0002" x="4756" y="5895" width="784" height="890" frameX="-484" frameY="-107" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Down0003" x="6324" y="5895" width="784" height="885" frameX="-484" frameY="-115" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Down0004" x="7357" y="885" width="784" height="880" frameX="-485" frameY="-124" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Down0005" x="7357" y="2645" width="783" height="874" frameX="-486" frameY="-133" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Down0006" x="7357" y="4393" width="784" height="870" frameX="-486" frameY="-139" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Down0007" x="0" y="6837" width="784" height="868" frameX="-486" frameY="-142" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Down0008" x="0" y="6837" width="784" height="868" frameX="-486" frameY="-142" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Down0009" x="0" y="6837" width="784" height="868" frameX="-486" frameY="-142" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Down0010" x="0" y="6837" width="784" height="868" frameX="-486" frameY="-142" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Down0011" x="0" y="6837" width="784" height="868" frameX="-486" frameY="-142" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Down0012" x="0" y="6837" width="784" height="868" frameX="-486" frameY="-142" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Down0013" x="0" y="6837" width="784" height="868" frameX="-486" frameY="-142" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing DMiss0000" x="2401" y="5895" width="785" height="895" frameX="-483" frameY="-99" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing DMiss0001" x="3971" y="5895" width="785" height="894" frameX="-483" frameY="-101" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing DMiss0002" x="5540" y="5895" width="784" height="890" frameX="-484" frameY="-107" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing DMiss0003" x="7357" y="0" width="784" height="885" frameX="-484" frameY="-115" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing DMiss0004" x="7357" y="1765" width="784" height="880" frameX="-485" frameY="-124" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing DMiss0005" x="7357" y="3519" width="783" height="874" frameX="-486" frameY="-133" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing DMiss0006" x="7357" y="5263" width="784" height="870" frameX="-486" frameY="-139" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing DMiss0007" x="784" y="6837" width="784" height="868" frameX="-486" frameY="-142" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing DMiss0008" x="784" y="6837" width="784" height="868" frameX="-486" frameY="-142" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing DMiss0009" x="784" y="6837" width="784" height="868" frameX="-486" frameY="-142" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing DMiss0010" x="784" y="6837" width="784" height="868" frameX="-486" frameY="-142" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing DMiss0011" x="784" y="6837" width="784" height="868" frameX="-486" frameY="-142" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing DMiss0012" x="784" y="6837" width="784" height="868" frameX="-486" frameY="-142" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing DMiss0013" x="784" y="6837" width="784" height="868" frameX="-486" frameY="-142" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Right0000" x="0" y="3986" width="772" height="956" frameX="-456" frameY="-65" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Right0001" x="772" y="3986" width="772" height="956" frameX="-457" frameY="-65" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Right0002" x="1544" y="3986" width="772" height="956" frameX="-460" frameY="-65" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Right0003" x="4910" y="2877" width="772" height="957" frameX="-463" frameY="-64" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Right0004" x="1636" y="1019" width="773" height="957" frameX="-465" frameY="-64" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Right0005" x="4910" y="961" width="773" height="958" frameX="-466" frameY="-63" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Right0006" x="4910" y="961" width="773" height="958" frameX="-466" frameY="-63" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Right0007" x="4910" y="961" width="773" height="958" frameX="-466" frameY="-63" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Right0008" x="4910" y="961" width="773" height="958" frameX="-466" frameY="-63" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Right0009" x="4910" y="961" width="773" height="958" frameX="-466" frameY="-63" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Right0010" x="4910" y="961" width="773" height="958" frameX="-466" frameY="-63" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Right0011" x="4910" y="961" width="773" height="958" frameX="-466" frameY="-63" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Right0012" x="4910" y="961" width="773" height="958" frameX="-466" frameY="-63" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Right0013" x="4910" y="961" width="773" height="958" frameX="-466" frameY="-63" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing RMiss0000" x="2316" y="3986" width="772" height="956" frameX="-456" frameY="-65" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing RMiss0001" x="3088" y="3986" width="772" height="956" frameX="-457" frameY="-65" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing RMiss0002" x="3860" y="3986" width="772" height="956" frameX="-460" frameY="-65" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing RMiss0003" x="2462" y="2031" width="772" height="957" frameX="-463" frameY="-64" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing RMiss0004" x="3284" y="3012" width="773" height="957" frameX="-465" frameY="-64" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing RMiss0005" x="4910" y="1919" width="773" height="958" frameX="-466" frameY="-63" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing RMiss0006" x="4910" y="1919" width="773" height="958" frameX="-466" frameY="-63" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing RMiss0007" x="4910" y="1919" width="773" height="958" frameX="-466" frameY="-63" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing RMiss0008" x="4910" y="1919" width="773" height="958" frameX="-466" frameY="-63" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing RMiss0009" x="4910" y="1919" width="773" height="958" frameX="-466" frameY="-63" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing RMiss0010" x="4910" y="1919" width="773" height="958" frameX="-466" frameY="-63" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing RMiss0011" x="4910" y="1919" width="773" height="958" frameX="-466" frameY="-63" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing RMiss0012" x="4910" y="1919" width="773" height="958" frameX="-466" frameY="-63" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing RMiss0013" x="4910" y="1919" width="773" height="958" frameX="-466" frameY="-63" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Up0000" x="0" y="3012" width="821" height="974" frameX="-462" frameY="-50" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Up0001" x="0" y="2031" width="820" height="981" frameX="-462" frameY="-44" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Up0002" x="818" y="1019" width="818" height="997" frameX="-463" frameY="-30" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Up0003" x="1632" y="0" width="818" height="1012" frameX="-463" frameY="-17" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Up0004" x="0" y="0" width="816" height="1019" frameX="-464" frameY="-11" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Up0005" x="0" y="0" width="816" height="1019" frameX="-464" frameY="-11" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Up0006" x="0" y="0" width="816" height="1019" frameX="-464" frameY="-11" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Up0007" x="0" y="0" width="816" height="1019" frameX="-464" frameY="-11" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Up0008" x="0" y="0" width="816" height="1019" frameX="-464" frameY="-11" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Up0009" x="0" y="0" width="816" height="1019" frameX="-464" frameY="-11" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Up0010" x="0" y="0" width="816" height="1019" frameX="-464" frameY="-11" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Up0011" x="0" y="0" width="816" height="1019" frameX="-464" frameY="-11" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Up0012" x="0" y="0" width="816" height="1019" frameX="-464" frameY="-11" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing Up0013" x="0" y="0" width="816" height="1019" frameX="-464" frameY="-11" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing UMiss0000" x="821" y="3012" width="821" height="974" frameX="-462" frameY="-50" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing UMiss0001" x="820" y="2031" width="820" height="981" frameX="-462" frameY="-44" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing UMiss0002" x="2450" y="0" width="818" height="997" frameX="-463" frameY="-30" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing UMiss0003" x="0" y="1019" width="818" height="1012" frameX="-463" frameY="-17" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing UMiss0004" x="816" y="0" width="816" height="1019" frameX="-464" frameY="-11" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing UMiss0005" x="816" y="0" width="816" height="1019" frameX="-464" frameY="-11" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing UMiss0006" x="816" y="0" width="816" height="1019" frameX="-464" frameY="-11" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing UMiss0007" x="816" y="0" width="816" height="1019" frameX="-464" frameY="-11" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing UMiss0008" x="816" y="0" width="816" height="1019" frameX="-464" frameY="-11" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing UMiss0009" x="816" y="0" width="816" height="1019" frameX="-464" frameY="-11" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing UMiss0010" x="816" y="0" width="816" height="1019" frameX="-464" frameY="-11" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing UMiss0011" x="816" y="0" width="816" height="1019" frameX="-464" frameY="-11" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing UMiss0012" x="816" y="0" width="816" height="1019" frameX="-464" frameY="-11" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="D-Sides Boyfriend Sunshine Sing UMiss0013" x="816" y="0" width="816" height="1019" frameX="-464" frameY="-11" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

@@ -1,0 +1,2 @@
+Toggles Ring Mechanic
+Value 1 - True/False

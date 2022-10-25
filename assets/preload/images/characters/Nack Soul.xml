@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nack Soul.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DownPoseFang0000" x="0" y="0" width="674" height="496" frameX="-6" frameY="0" frameWidth="768" frameHeight="513"/>
+	<SubTexture name="DownPoseFang0001" x="674" y="0" width="673" height="496" frameX="-6" frameY="0" frameWidth="768" frameHeight="513"/>
+	<SubTexture name="DownPoseFang0002" x="1347" y="0" width="707" height="479" frameX="0" frameY="-17" frameWidth="768" frameHeight="513"/>
+	<SubTexture name="DownPoseFang0003" x="2054" y="0" width="707" height="479" frameX="0" frameY="-17" frameWidth="768" frameHeight="513"/>
+	<SubTexture name="DownPoseFang0004" x="2761" y="0" width="750" height="479" frameX="0" frameY="-17" frameWidth="768" frameHeight="513"/>
+	<SubTexture name="DownPoseFang0005" x="3511" y="0" width="768" height="496" frameX="0" frameY="-17" frameWidth="768" frameHeight="513"/>
+	<SubTexture name="FangIdle0000" x="4279" y="0" width="608" height="637" frameX="0" frameY="-38" frameWidth="608" frameHeight="675"/>
+	<SubTexture name="FangIdle0001" x="4887" y="0" width="608" height="637" frameX="0" frameY="-38" frameWidth="608" frameHeight="675"/>
+	<SubTexture name="FangIdle0002" x="5495" y="0" width="607" height="636" frameX="-1" frameY="-39" frameWidth="608" frameHeight="675"/>
+	<SubTexture name="FangIdle0003" x="6102" y="0" width="585" height="634" frameX="-2" frameY="-41" frameWidth="608" frameHeight="675"/>
+	<SubTexture name="FangIdle0004" x="6687" y="0" width="585" height="633" frameX="-2" frameY="-42" frameWidth="608" frameHeight="675"/>
+	<SubTexture name="FangIdle0005" x="7272" y="0" width="582" height="655" frameX="-4" frameY="-20" frameWidth="608" frameHeight="675"/>
+	<SubTexture name="FangIdle0006" x="0" y="655" width="600" height="655" frameX="-4" frameY="-20" frameWidth="608" frameHeight="675"/>
+	<SubTexture name="FangIdle0007" x="600" y="655" width="599" height="654" frameX="-5" frameY="-21" frameWidth="608" frameHeight="675"/>
+	<SubTexture name="FangIdle0008" x="1199" y="655" width="566" height="665" frameX="-6" frameY="-10" frameWidth="608" frameHeight="675"/>
+	<SubTexture name="FangIdle0009" x="1765" y="655" width="566" height="664" frameX="-6" frameY="-11" frameWidth="608" frameHeight="675"/>
+	<SubTexture name="FangIdle0010" x="2331" y="655" width="564" height="675" frameX="-7" frameY="0" frameWidth="608" frameHeight="675"/>
+	<SubTexture name="FangIdle0011" x="2895" y="655" width="565" height="674" frameX="-6" frameY="-1" frameWidth="608" frameHeight="675"/>
+	<SubTexture name="FangIdle0012" x="3460" y="655" width="565" height="674" frameX="-6" frameY="-1" frameWidth="608" frameHeight="675"/>
+	<SubTexture name="FangIdle0013" x="2331" y="655" width="564" height="675" frameX="-7" frameY="0" frameWidth="608" frameHeight="675"/>
+	<SubTexture name="FangShoot0000" x="7297" y="1330" width="661" height="601" frameX="-12" frameY="-39" frameWidth="760" frameHeight="640"/>
+	<SubTexture name="FangShoot0001" x="0" y="1999" width="687" height="640" frameX="0" frameY="0" frameWidth="760" frameHeight="640"/>
+	<SubTexture name="FangShoot0002" x="687" y="1999" width="760" height="640"/>
+	<SubTexture name="FangShoot0003" x="1447" y="1999" width="740" height="631" frameX="-20" frameY="-9" frameWidth="760" frameHeight="640"/>
+	<SubTexture name="FangShoot0004" x="2187" y="1999" width="536" height="631" frameX="-20" frameY="-9" frameWidth="760" frameHeight="640"/>
+	<SubTexture name="FangShoot0005" x="2723" y="1999" width="536" height="631" frameX="-20" frameY="-9" frameWidth="760" frameHeight="640"/>
+	<SubTexture name="FangShoot0006" x="3259" y="1999" width="536" height="631" frameX="-20" frameY="-9" frameWidth="760" frameHeight="640"/>
+	<SubTexture name="FangShoot0007" x="2187" y="1999" width="536" height="631" frameX="-20" frameY="-9" frameWidth="760" frameHeight="640"/>
+	<SubTexture name="LeftPoseFang0000" x="4025" y="655" width="650" height="614" frameX="-13" frameY="0" frameWidth="671" frameHeight="614"/>
+	<SubTexture name="LeftPoseFang0001" x="4675" y="655" width="649" height="614" frameX="-13" frameY="0" frameWidth="671" frameHeight="614"/>
+	<SubTexture name="LeftPoseFang0002" x="5324" y="655" width="670" height="593" frameX="-1" frameY="-21" frameWidth="671" frameHeight="614"/>
+	<SubTexture name="LeftPoseFang0003" x="5994" y="655" width="670" height="593" frameX="0" frameY="-21" frameWidth="671" frameHeight="614"/>
+	<SubTexture name="LeftPoseFang0004" x="6664" y="655" width="670" height="593" frameX="0" frameY="-21" frameWidth="671" frameHeight="614"/>
+	<SubTexture name="LeftPoseFang0005" x="7334" y="655" width="670" height="593" frameX="-1" frameY="-21" frameWidth="671" frameHeight="614"/>
+	<SubTexture name="RightFangNote pose0000" x="0" y="1330" width="713" height="586" frameX="-1" frameY="0" frameWidth="721" frameHeight="586"/>
+	<SubTexture name="RightFangNote pose0001" x="713" y="1330" width="713" height="585" frameX="-1" frameY="0" frameWidth="721" frameHeight="586"/>
+	<SubTexture name="RightFangNote pose0002" x="1426" y="1330" width="702" height="544" frameX="0" frameY="-40" frameWidth="721" frameHeight="586"/>
+	<SubTexture name="RightFangNote pose0003" x="2128" y="1330" width="703" height="545" frameX="0" frameY="-40" frameWidth="721" frameHeight="586"/>
+	<SubTexture name="RightFangNote pose0004" x="2831" y="1330" width="707" height="544" frameX="0" frameY="-40" frameWidth="721" frameHeight="586"/>
+	<SubTexture name="RightFangNote pose0005" x="3538" y="1330" width="721" height="544" frameX="0" frameY="-40" frameWidth="721" frameHeight="586"/>
+	<SubTexture name="UpPoseFang0000" x="4259" y="1330" width="520" height="669" frameX="0" frameY="0" frameWidth="550" frameHeight="669"/>
+	<SubTexture name="UpPoseFang0001" x="4779" y="1330" width="518" height="669" frameX="-1" frameY="0" frameWidth="550" frameHeight="669"/>
+	<SubTexture name="UpPoseFang0002" x="5297" y="1330" width="493" height="651" frameX="-32" frameY="-18" frameWidth="550" frameHeight="669"/>
+	<SubTexture name="UpPoseFang0003" x="5790" y="1330" width="493" height="650" frameX="-32" frameY="-19" frameWidth="550" frameHeight="669"/>
+	<SubTexture name="UpPoseFang0004" x="6283" y="1330" width="496" height="650" frameX="-32" frameY="-19" frameWidth="550" frameHeight="669"/>
+	<SubTexture name="UpPoseFang0005" x="6779" y="1330" width="518" height="651" frameX="-32" frameY="-18" frameWidth="550" frameHeight="669"/>
+</TextureAtlas>

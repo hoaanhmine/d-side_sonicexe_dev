@@ -1,0 +1,6 @@
+Changes the bg to Scorched's bg
+
+value1: put "on" to change the bg and "off" to remove the bg 
+        (disables the event)
+
+

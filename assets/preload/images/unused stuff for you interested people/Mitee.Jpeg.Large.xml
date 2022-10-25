@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mitee.Jpeg.Large.png">
+<SubTexture name="Mitee.Jpeg.large idle0000" x="0" y="1235" width="469" height="596" frameX="-35" frameY="-48" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large idle0001" x="0" y="1235" width="469" height="596" frameX="-35" frameY="-48" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large idle0002" x="0" y="630" width="451" height="605" frameX="-43" frameY="-39" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large idle0003" x="0" y="630" width="451" height="605" frameX="-43" frameY="-39" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large idle0004" x="835" y="0" width="431" height="608" frameX="-52" frameY="-36" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large idle0005" x="835" y="0" width="431" height="608" frameX="-52" frameY="-36" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large idle0006" x="409" y="0" width="426" height="609" frameX="-54" frameY="-35" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large idle0007" x="409" y="0" width="426" height="609" frameX="-54" frameY="-35" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large singLEFT0000" x="469" y="1235" width="435" height="588" frameX="-18" frameY="-56" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large singLEFT0001" x="469" y="1235" width="435" height="588" frameX="-18" frameY="-56" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large singLEFT0002" x="1673" y="602" width="441" height="601" frameX="-22" frameY="-43" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large singLEFT0003" x="1673" y="602" width="441" height="601" frameX="-22" frameY="-43" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large singUP0000" x="0" y="0" width="409" height="630" frameX="-45" frameY="-14" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large singUP0001" x="0" y="0" width="409" height="630" frameX="-45" frameY="-14" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large singUP0002" x="1266" y="0" width="407" height="603" frameX="-54" frameY="-41" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large singUP0003" x="1266" y="0" width="407" height="603" frameX="-54" frameY="-41" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large singDOWN0000" x="1356" y="1235" width="472" height="435" frameX="-61" frameY="-167" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large singDOWN0001" x="1356" y="1235" width="472" height="435" frameX="-61" frameY="-167" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large singDOWN0002" x="904" y="1235" width="452" height="453" frameX="-72" frameY="-149" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large singDOWN0003" x="904" y="1235" width="452" height="453" frameX="-72" frameY="-149" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large singRIGHT0000" x="1673" y="0" width="575" height="602" frameX="-93" frameY="-42" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large singRIGHT0001" x="1673" y="0" width="575" height="602" frameX="-93" frameY="-42" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large singRIGHT0002" x="451" y="630" width="579" height="604" frameX="-55" frameY="-40" frameWidth="668" frameHeight="644" />
+<SubTexture name="Mitee.Jpeg.large singRIGHT0003" x="451" y="630" width="579" height="604" frameX="-55" frameY="-40" frameWidth="668" frameHeight="644" />
+</TextureAtlas>

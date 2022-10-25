@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mightyscary.png"><SubTexture name="mightyscary idle0000" x="108" y="300" width="108" height="136" frameX="-36" frameY="-20" frameWidth="184" frameHeight="156" />
+<SubTexture name="mightyscary idle0001" x="148" y="156" width="100" height="140" frameX="-40" frameY="-16" frameWidth="184" frameHeight="156" />
+<SubTexture name="mightyscary idle0002" x="248" y="156" width="100" height="140" frameX="-40" frameY="-16" frameWidth="184" frameHeight="156" />
+<SubTexture name="mightyscary idle0003" x="360" y="0" width="100" height="140" frameX="-40" frameY="-16" frameWidth="184" frameHeight="156" />
+<SubTexture name="mightyscary left0000" x="212" y="0" width="148" height="144" frameX="0" frameY="-12" frameWidth="184" frameHeight="156" />
+<SubTexture name="mightyscary left0001" x="0" y="156" width="148" height="144" frameX="-4" frameY="-12" frameWidth="184" frameHeight="156" />
+<SubTexture name="mightyscary down0000" x="324" y="300" width="96" height="132" frameX="-52" frameY="-24" frameWidth="184" frameHeight="156" />
+<SubTexture name="mightyscary down0001" x="360" y="140" width="92" height="136" frameX="-52" frameY="-20" frameWidth="184" frameHeight="156" />
+<SubTexture name="mightyscary up0000" x="0" y="0" width="104" height="156" frameX="-40" frameY="0" frameWidth="184" frameHeight="156" />
+<SubTexture name="mightyscary up0001" x="104" y="0" width="108" height="152" frameX="-36" frameY="-4" frameWidth="184" frameHeight="156" />
+<SubTexture name="mightyscary right0000" x="460" y="0" width="136" height="132" frameX="-48" frameY="-24" frameWidth="184" frameHeight="156" />
+<SubTexture name="mightyscary right0001" x="460" y="132" width="132" height="132" frameX="-48" frameY="-24" frameWidth="184" frameHeight="156" />
+<SubTexture name="mightyscary grab0000" x="0" y="440" width="164" height="128" frameX="-36" frameY="0" frameWidth="200" frameHeight="128" />
+<SubTexture name="mightyscary grab0001" x="164" y="440" width="164" height="128" frameX="-36" frameY="0" frameWidth="200" frameHeight="128" />
+<SubTexture name="mightyscary laugh0000" x="216" y="300" width="108" height="136" frameX="0" frameY="-4" frameWidth="108" frameHeight="140" />
+<SubTexture name="mightyscary laugh0001" x="0" y="300" width="108" height="140" frameX="0" frameY="0" frameWidth="108" frameHeight="140" />
+</TextureAtlas>

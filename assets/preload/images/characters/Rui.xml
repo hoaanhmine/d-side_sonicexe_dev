@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Rui.png">
+<SubTexture name="Rui Idle0000" x="0" y="484" width="407" height="479" frameX="-7" frameY="-9" frameWidth="414" frameHeight="488" />
+<SubTexture name="Rui Idle0001" x="0" y="484" width="407" height="479" frameX="-7" frameY="-9" frameWidth="414" frameHeight="488" />
+<SubTexture name="Rui Idle0002" x="747" y="0" width="388" height="481" frameX="-21" frameY="-7" frameWidth="414" frameHeight="488" />
+<SubTexture name="Rui Idle0003" x="747" y="0" width="388" height="481" frameX="-21" frameY="-7" frameWidth="414" frameHeight="488" />
+<SubTexture name="Rui Idle0004" x="0" y="0" width="375" height="484" frameX="-31" frameY="-4" frameWidth="414" frameHeight="488" />
+<SubTexture name="Rui Idle0005" x="0" y="0" width="375" height="484" frameX="-31" frameY="-4" frameWidth="414" frameHeight="488" />
+<SubTexture name="Rui Idle0006" x="375" y="0" width="372" height="483" frameX="-34" frameY="-5" frameWidth="414" frameHeight="488" />
+<SubTexture name="Rui Idle0007" x="375" y="0" width="372" height="483" frameX="-34" frameY="-5" frameWidth="414" frameHeight="488" />
+</TextureAtlas>
